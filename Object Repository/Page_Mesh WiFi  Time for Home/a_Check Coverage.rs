@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Check Coverage</name>
+   <tag></tag>
+   <elementGuidId>b18cb861-8989-436b-a040-03e7699c0e98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d74c86be-98a6-47e5-b0fc-2a4a3eed0feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.time.com.my/check-coverage</value>
+      <webElementGuid>3fcfaecc-fd76-49c8-b446-1fe9f48a626f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Check Coverage </value>
+      <webElementGuid>4455a02b-6cb0-43f0-bb11-761b693b1755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteHeader&quot;)/div[@class=&quot;wrapper site-header__wrapper&quot;]/div[@class=&quot;site-header__left&quot;]/ul[@class=&quot;site-header__nav&quot;]/li[@class=&quot;site-header__nav-item selected--&quot;]/div[@class=&quot;site-header__subnav&quot;]/div[@class=&quot;wrapper site-header__subnav-wrapper&quot;]/ul[@class=&quot;site-header__subnav-links&quot;]/li[@class=&quot;site-header__subnav-item&quot;]/a[1]</value>
+      <webElementGuid>164541f9-74f3-4b0d-b4a9-424275ca9561</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[6]/a</value>
+      <webElementGuid>b1e96099-d57f-4ac1-95ba-9248c958f4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Check Coverage')])[2]</value>
+      <webElementGuid>37675050-1994-4eac-9100-58aa3f49ea6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mesh WiFi'])[2]/following::a[1]</value>
+      <webElementGuid>174506a3-65d8-432b-aa81-a9e13bece239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gig Speed Home (FTTR)'])[2]/following::a[2]</value>
+      <webElementGuid>06d309f9-63c4-412a-a175-91e50b77ca46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Status'])[2]/preceding::a[1]</value>
+      <webElementGuid>e7bc592e-7767-470c-b636-306d5cc91169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up Now'])[3]/preceding::a[2]</value>
+      <webElementGuid>fb7ba36e-fd71-49ba-a0ca-c35577022701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.time.com.my/check-coverage')])[2]</value>
+      <webElementGuid>d6f1b3ef-c138-4edb-832f-db9f65f75d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[6]/a</value>
+      <webElementGuid>fb552c44-24ce-4832-8520-49fafc376f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.time.com.my/check-coverage' and (text() = ' Check Coverage ' or . = ' Check Coverage ')]</value>
+      <webElementGuid>64a810f0-6f93-49a7-ae81-06fe4060d543</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

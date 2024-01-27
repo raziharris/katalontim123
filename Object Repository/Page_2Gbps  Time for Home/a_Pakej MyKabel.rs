@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pakej MyKabel</name>
+   <tag></tag>
+   <elementGuidId>3d22d1cd-2ffc-40ae-a93f-b7beaee2b717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f459595d-f04d-4d03-9013-01ac1961564a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.time.com.my/for-home/pakej-mykabel</value>
+      <webElementGuid>485e9346-66f1-4048-9bb0-cc8e4179006c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pakej MyKabel </value>
+      <webElementGuid>1091aa59-f8d9-40d2-bdf4-b19523f89bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteHeader&quot;)/div[@class=&quot;wrapper site-header__wrapper&quot;]/div[@class=&quot;site-header__left&quot;]/ul[@class=&quot;site-header__nav&quot;]/li[@class=&quot;site-header__nav-item selected--&quot;]/div[@class=&quot;site-header__subnav&quot;]/div[@class=&quot;wrapper site-header__subnav-wrapper&quot;]/ul[@class=&quot;site-header__subnav-links&quot;]/li[@class=&quot;site-header__subnav-item&quot;]/a[1]</value>
+      <webElementGuid>78d7f1dd-1da4-4473-a7dc-36ed3ffeb119</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[3]/a</value>
+      <webElementGuid>8259f453-0ed8-4a11-b1f9-049077604a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pakej MyKabel')])[2]</value>
+      <webElementGuid>9fd55214-ba0a-4d9b-940a-05b2f586871b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::a[2]</value>
+      <webElementGuid>3a0e1ba5-bcf7-4d25-b827-6394f6bee2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Home'])[3]/following::a[3]</value>
+      <webElementGuid>8e800046-1403-40dc-be15-f10e48e786c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gig Speed Home (FTTR)'])[2]/preceding::a[1]</value>
+      <webElementGuid>932a898e-686e-4ec5-b083-31f046eb9e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mesh WiFi'])[2]/preceding::a[2]</value>
+      <webElementGuid>df0e2e2d-bc80-4c36-be6d-4b3ab48a533a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.time.com.my/for-home/pakej-mykabel')])[2]</value>
+      <webElementGuid>83dc185b-0690-41af-9f9f-d7fe097423a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[3]/a</value>
+      <webElementGuid>90901e00-0c38-4376-9b50-378313fdbd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.time.com.my/for-home/pakej-mykabel' and (text() = ' Pakej MyKabel ' or . = ' Pakej MyKabel ')]</value>
+      <webElementGuid>318eb0ad-a049-4c73-9303-c2cb5211dc02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

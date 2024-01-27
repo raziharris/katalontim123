@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gig Speed Home (FTTR)</name>
+   <tag></tag>
+   <elementGuidId>dde510ee-fcea-4a9c-9517-25dadbd00de5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>82201c33-ca6f-436f-86e9-b2fe5c824053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.time.com.my/for-home/gig-speed-home</value>
+      <webElementGuid>57ad7c64-ff8d-407c-b2d1-2ff7c896a8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Gig Speed Home (FTTR) </value>
+      <webElementGuid>a1451548-c266-478e-aa1a-84809a640ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteHeader&quot;)/div[@class=&quot;wrapper site-header__wrapper&quot;]/div[@class=&quot;site-header__left&quot;]/ul[@class=&quot;site-header__nav&quot;]/li[@class=&quot;site-header__nav-item selected--&quot;]/div[@class=&quot;site-header__subnav&quot;]/div[@class=&quot;wrapper site-header__subnav-wrapper&quot;]/ul[@class=&quot;site-header__subnav-links&quot;]/li[@class=&quot;site-header__subnav-item&quot;]/a[1]</value>
+      <webElementGuid>871848e9-7159-4bf8-b456-519469f26ba2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[4]/a</value>
+      <webElementGuid>eda258cc-4e46-488e-a9f3-174acfa8a63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Gig Speed Home (FTTR)')])[2]</value>
+      <webElementGuid>2c0d459a-8901-4cc4-9ffa-9613f5136ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakej MyKabel'])[2]/following::a[1]</value>
+      <webElementGuid>5444c05b-c13f-4ec6-9775-ce5bc20c777a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::a[3]</value>
+      <webElementGuid>3fbabb67-ae3a-419f-b831-a3592a459c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mesh WiFi'])[2]/preceding::a[1]</value>
+      <webElementGuid>5804ab1a-8658-4097-8c66-6b1f3dbb610c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Coverage'])[2]/preceding::a[2]</value>
+      <webElementGuid>2bebf17c-e087-4601-a9ae-91ed281f8119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.time.com.my/for-home/gig-speed-home')])[2]</value>
+      <webElementGuid>e0a5e9ff-2d0e-49e6-a1c7-5be1a0fc0352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[4]/a</value>
+      <webElementGuid>93fb05c9-eb40-47d4-8d36-86b1fb7474de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.time.com.my/for-home/gig-speed-home' and (text() = ' Gig Speed Home (FTTR) ' or . = ' Gig Speed Home (FTTR) ')]</value>
+      <webElementGuid>326d3c6f-69cb-45b3-a344-cd1475a83b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

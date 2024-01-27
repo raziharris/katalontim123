@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2Gbps</name>
+   <tag></tag>
+   <elementGuidId>9bc7061b-7bd3-495e-ab5a-4d924db3f769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5562b04e-cfca-4aac-93e0-16c16b474c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.time.com.my/for-home/2gbps</value>
+      <webElementGuid>715ad07f-191a-43be-8b5c-2c49ce65ce76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 2Gbps </value>
+      <webElementGuid>6e81079d-2320-4c1a-845e-c672660cd745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteHeader&quot;)/div[@class=&quot;wrapper site-header__wrapper&quot;]/div[@class=&quot;site-header__left&quot;]/ul[@class=&quot;site-header__nav&quot;]/li[@class=&quot;site-header__nav-item selected--&quot;]/div[@class=&quot;site-header__subnav&quot;]/div[@class=&quot;wrapper site-header__subnav-wrapper&quot;]/ul[@class=&quot;site-header__subnav-links&quot;]/li[@class=&quot;site-header__subnav-item&quot;]/a[1]</value>
+      <webElementGuid>ab30bfe5-8874-4e26-b5fc-7a919e2e4d26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteHeader']/div/div[2]/ul/li/div/div/ul/li[2]/a</value>
+      <webElementGuid>8a304458-eada-49dc-adda-73803436d8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'2Gbps')])[2]</value>
+      <webElementGuid>f8203ccb-f846-4580-a56d-8961a0d35fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/following::a[1]</value>
+      <webElementGuid>8d157d95-21a3-439f-affb-cf9e97e5b95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Home'])[3]/following::a[2]</value>
+      <webElementGuid>db65dd9f-ec5b-4e86-bebd-c087da300550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakej MyKabel'])[2]/preceding::a[1]</value>
+      <webElementGuid>3ed84eda-3148-4749-bd8e-4f18e5c4b270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gig Speed Home (FTTR)'])[2]/preceding::a[2]</value>
+      <webElementGuid>66b66353-d7b8-4e45-9647-ad00de1f6d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.time.com.my/for-home/2gbps')])[2]</value>
+      <webElementGuid>12b9a2d5-0253-469b-9108-215c70829017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li[2]/a</value>
+      <webElementGuid>0b702598-fda0-45d3-b605-eb7566c727e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.time.com.my/for-home/2gbps' and (text() = ' 2Gbps ' or . = ' 2Gbps ')]</value>
+      <webElementGuid>cc0fd5ca-796e-4e13-9c97-8afc42acd91e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
