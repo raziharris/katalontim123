@@ -31,11 +31,17 @@ WebUI.click(findTestObject('Object Repository/Page_Telco Solutions for Homes  Bu
 
 WebUI.click(findTestObject('Object Repository/Page_Time for Home/a_2Gbps'))
 
+WebUI.verifyElementVisible(findTestObject('Page_2Gbps  Time for Home/Element_present_2GB'))
+
 WebUI.click(findTestObject('Object Repository/Page_2Gbps  Time for Home/a_Pakej MyKabel'))
+
+WebUI.verifyElementVisible(findTestObject('Page_Pakej MyKabel  Time for Home/Verify_Element_pakeymykabel'))
 
 WebUI.click(findTestObject('Object Repository/Page_Pakej MyKabel  Time for Home/a_Gig Speed Home (FTTR)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Gig Speed Home - Time/a_Mesh WiFi'))
+
+WebUI.verifyElementVisible(findTestObject('Page_Mesh WiFi  Time for Home/Verify_element_meshWifi'))
 
 WebUI.click(findTestObject('Object Repository/Page_Mesh WiFi  Time for Home/a_Check Coverage'))
 
